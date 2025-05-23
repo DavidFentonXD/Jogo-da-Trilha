@@ -5,7 +5,7 @@ Este é um projeto da disciplina **Programação II**, sob orientação do Prof.
 ### 🎯 Objetivo
 Reduzir o número de peças do adversário para menos de três **ou** bloqueá-lo para que não possa realizar movimentos.
 
-### 🧑‍🤝‍🧑 Jogadores
+### 🎲 Jogadores
 - Dois jogadores
 - Cada um recebe 9 peças de uma cor diferente (18 no total)
 
